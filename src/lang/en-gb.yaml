@@ -1,0 +1,8 @@
+hello: Hello
+home:
+  settingsLink: Settings
+randomNumber: Generating random number...
+randomNumberGenerated: "Random number: {randomNumber}\t"
+settings.changeLanguage: Language
+settings.homeLink: Home
+sir: Sir
